@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+
+        <item
+            android:id="@+id/nav_profile"
+
+            android:title="   PROFILE" />
+        <item
+            android:id="@+id/nav_workshop"
+            android:title="   WORKSHOP" />
+        <item
+            
+            android:id="@+id/nav_about"
+            android:title="   ABOUT US" />
+        <item
+            android:id="@+id/nav_log"
+            android:title="   LOGOUT" />
+        <item
+            android:id="@+id/nav_tutor"
+            android:title="   LOGIN FOR TUTORS" />
+
+
+</menu>

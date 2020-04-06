@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506284305668",
+    "firebase_url": "https://workshop-5beed.firebaseio.com",
+    "project_id": "workshop-5beed",
+    "storage_bucket": "workshop-5beed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506284305668:android:a3a97a6a90e3b6ade37451",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506284305668-buskhac4b8nutqogis9g1i0evp1sgf7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "7de1a379a3ab5f9da01ecd217e552c0a8060bc61"
+          }
+        },
+        {
+          "client_id": "506284305668-cq4iudgtjbl3ea2mbmbooe5d2h2g39ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlDG-T8i8vl6p4xfuvORkEYH1dwk8_Lh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506284305668-cq4iudgtjbl3ea2mbmbooe5d2h2g39ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
